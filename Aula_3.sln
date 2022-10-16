@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameInterfaces", "GameInterfaces\GameInterfaces.csproj", "{2C630980-9832-4ADD-923D-17FF46A9FB0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityManager1", "CityManager1\CityManager1.csproj", "{40F9CD20-D655-4E9C-B5C3-8019DDAB2FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2C630980-9832-4ADD-923D-17FF46A9FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C630980-9832-4ADD-923D-17FF46A9FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C630980-9832-4ADD-923D-17FF46A9FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F9CD20-D655-4E9C-B5C3-8019DDAB2FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F9CD20-D655-4E9C-B5C3-8019DDAB2FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F9CD20-D655-4E9C-B5C3-8019DDAB2FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F9CD20-D655-4E9C-B5C3-8019DDAB2FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
