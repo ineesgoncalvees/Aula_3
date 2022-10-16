@@ -11,7 +11,7 @@ namespace GameInterfaces
         private float area;
 
 
-        private void ToString()
+        private string ToString()
         {
             string str = $"{tipo, -20} {Value, 8:f2} {area, 8:f2}";
 
